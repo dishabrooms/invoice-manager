@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Invoices",
+			"path": "Invoices"
+		}
+	],
+	"settings": {}
+}
